@@ -32,7 +32,7 @@ int main() {
     }
 
     // Output the percentage and grade
-    printf("Percentage: %.2f%%\n", percentage);
+    printf("Percentage: %.f\n", percentage);
     printf("Grade: %c\n", grade);
 	return 0;
 }
